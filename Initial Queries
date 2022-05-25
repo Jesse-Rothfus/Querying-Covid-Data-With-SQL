@@ -1,4 +1,4 @@
--- 1. Previewing data
+-- 1. Previewing the data
 
 /*
 SELECT 
@@ -8,7 +8,7 @@ FROM
 ORDER BY 3,4
 */
 
--- 2. Selecting data to use.
+-- 2. Selecting the data to use.
 
 /*
 SELECT 
